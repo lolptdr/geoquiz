@@ -5,28 +5,31 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.0.1"
-    timestamp="1520123062021"
+    timestamp="1520128035268"
     token="673708486109626871"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="488" />
+        duration="639" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="70" />
     <task
         name="verifier"
-        duration="3" />
+        duration="10" />
 
     <artifact
         location="/Users/jojo/Projects/android/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/jojo/Projects/android/GeoQuiz/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -95,21 +98,15 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_TYPE_CHANGE"
-        timestamp="1520122387778"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jojo/Projects/android/GeoQuiz/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1520123062021"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1520128035268"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/jojo/Projects/android/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/jojo/Projects/android/GeoQuiz/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
