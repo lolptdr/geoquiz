@@ -920,6 +920,10 @@
         "source": "/Users/jojo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12791d458d1514cadf04c2b3fff2eec6/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/jojo/Projects/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-land_activity_quiz.xml.flat",
+        "source": "/Users/jojo/Projects/android/GeoQuiz/app/src/main/res/layout-land/activity_quiz.xml"
+    },
+    {
         "merged": "/Users/jojo/Projects/android/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/jojo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12791d458d1514cadf04c2b3fff2eec6/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
