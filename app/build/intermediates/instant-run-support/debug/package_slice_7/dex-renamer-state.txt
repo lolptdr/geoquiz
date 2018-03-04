@@ -1,4 +1,0 @@
-#Sun Mar 04 00:52:14 CST 2018
-base.0=/Users/jojo/Projects/android/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/8
-path.0=classes.dex
-renamed.0=classes.dex
